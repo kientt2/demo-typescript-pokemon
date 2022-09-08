@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo-typescript-pokemon/static/css/main.f5c0bdfd.css",
+    "main.js": "/demo-typescript-pokemon/static/js/main.f02c71cf.js",
+    "index.html": "/demo-typescript-pokemon/index.html",
+    "main.f5c0bdfd.css.map": "/demo-typescript-pokemon/static/css/main.f5c0bdfd.css.map",
+    "main.f02c71cf.js.map": "/demo-typescript-pokemon/static/js/main.f02c71cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c0bdfd.css",
+    "static/js/main.f02c71cf.js"
+  ]
+}
